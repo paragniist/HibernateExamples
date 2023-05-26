@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.flc.entities">
+	<class name="Product" table="product" >
+		<id name="productNo" column="product_no"/>
+		<property name="productNm" column="product_nm"/>
+		<property name="description"/>
+		<property name="manufacturerNm" column="manufacturer"/>
+		<property name="category"/>
+		<property name="price"/>
+	</class>
+</hibernate-mapping>
