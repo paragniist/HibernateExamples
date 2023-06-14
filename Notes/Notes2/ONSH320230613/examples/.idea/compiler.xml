@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="manageSF" />
+        <module name="dmloperations" />
+        <module name="beginorm" />
+        <module name="bootstrapping3" />
+        <module name="hibernatetx" />
+        <module name="idgenerators" />
+        <module name="hibannon" />
+        <module name="jpacompositeid" />
+        <module name="moreorm" />
+        <module name="jpaorm" />
+        <module name="flc" />
+        <module name="compositeid" />
+        <module name="getandload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="beginorm" target="17" />
+      <module name="bootstrapping3" target="17" />
+      <module name="compositeid" target="17" />
+      <module name="dmloperations" target="17" />
+      <module name="flc" target="17" />
+      <module name="getandload" target="17" />
+      <module name="hibannon" target="17" />
+      <module name="hibernatetx" target="17" />
+      <module name="idgenerators" target="17" />
+      <module name="jpacompositeid" target="17" />
+      <module name="jpaorm" target="17" />
+      <module name="manageSF" target="17" />
+      <module name="moreorm" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/flc/pom.xml" />
+        <option value="$PROJECT_DIR$/jpaorm/pom.xml" />
+        <option value="$PROJECT_DIR$/moreorm/pom.xml" />
+        <option value="$PROJECT_DIR$/beginorm/pom.xml" />
+        <option value="$PROJECT_DIR$/hibannon/pom.xml" />
+        <option value="$PROJECT_DIR$/manageSF/pom.xml" />
+        <option value="$PROJECT_DIR$/getandload/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernatetx/pom.xml" />
+        <option value="$PROJECT_DIR$/idgenerators/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrapping3/pom.xml" />
+        <option value="$PROJECT_DIR$/compositeid/pom.xml" />
+        <option value="$PROJECT_DIR$/jpacompositeid/pom.xml" />
+        <option value="$PROJECT_DIR$/dmloperations/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

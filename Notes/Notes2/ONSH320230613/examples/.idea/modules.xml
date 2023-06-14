@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/202303.iml" filepath="$PROJECT_DIR$/.idea/202303.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beginorm/beginorm.iml" filepath="$PROJECT_DIR$/beginorm/beginorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrapping3/bootstrapping3.iml" filepath="$PROJECT_DIR$/bootstrapping3/bootstrapping3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compositeid.iml" filepath="$PROJECT_DIR$/compositeid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmloperations.iml" filepath="$PROJECT_DIR$/dmloperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flc/flc.iml" filepath="$PROJECT_DIR$/flc/flc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getandload/getandload.iml" filepath="$PROJECT_DIR$/getandload/getandload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibannon/hibannon.iml" filepath="$PROJECT_DIR$/hibannon/hibannon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernatetx/hibernatetx.iml" filepath="$PROJECT_DIR$/hibernatetx/hibernatetx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idgenerators/idgenerators.iml" filepath="$PROJECT_DIR$/idgenerators/idgenerators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpacompositeid.iml" filepath="$PROJECT_DIR$/jpacompositeid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpaorm/jpaorm.iml" filepath="$PROJECT_DIR$/jpaorm/jpaorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manageSF/manageSF.iml" filepath="$PROJECT_DIR$/manageSF/manageSF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moreorm/moreorm.iml" filepath="$PROJECT_DIR$/moreorm/moreorm.iml" />
+    </modules>
+  </component>
+</project>
